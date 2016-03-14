@@ -2,7 +2,7 @@
 
 This plugin for [Hactar](https://github.com/Hactar-js) takes your JavaScript, scans it for import statements and then automatically installs dependencies. It doesn't use things like Webpack loaders, it parses your JavaScript directly.
 
-![Imgur](http://i.imgur.com/d6uY23S.gifv)
+![Imgur](http://i.imgur.com/d6uY23S.gif)
 
 ## Installation
 
